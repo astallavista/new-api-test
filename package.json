@@ -1,0 +1,26 @@
+{
+  "name": "new-api-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astallavista/new-api-test.git"
+  },
+  "author": "Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astallavista/new-api-test/issues"
+  },
+  "homepage": "https://github.com/astallavista/new-api-test#readme",
+  "dependencies": {
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.0.3",
+    "axios": "^0.27.2",
+    "mocha": "^10.0.0",
+    "typescript": "^4.7.4"
+  }
+}
