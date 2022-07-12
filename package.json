@@ -2,9 +2,8 @@
   "name": "new-api-test",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "mocha --require ts-node/register ./tests/**/*.test.ts"
+    "test": "mocha --require ts-node/register ./tests/**/*.spec.ts"
   },
   "repository": {
     "type": "git",
